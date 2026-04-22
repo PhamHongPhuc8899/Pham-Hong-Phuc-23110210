@@ -1,0 +1,7 @@
+--- DANH SÁCH CHI TIÊU ---
+- banh ngot: 1,000.0 VNĐ
+- banh man: 2,000.0 VNĐ
+- coca: 3,000.0 VNĐ
+------------------------------
+Tổng cộng: 6,000.0 VNĐ
+Món hàng đắt nhất: coca (3,000.0 VNĐ)
